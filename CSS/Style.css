@@ -1,0 +1,74 @@
+/*body*/
+body{
+    background-color: #8be3e1;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+/*Testo*/
+h1 {
+    
+    color: #8be3e1;
+    font-style  : italic;
+    text-align: center;
+    line-height: 60px;
+    background-color:black ;
+    
+}
+p{
+    color:black;
+    font-size:130%;
+    
+}
+.caratteristiche {
+    color: #66633a;
+    
+}
+
+
+p a {
+    color: blue;
+    font-size:1.5em;
+}
+
+
+ol li h2 a {
+    color: rgb(3, 56, 38);
+    font-style: oblique;
+    text-align: left;
+}
+/*Immagini*/
+img {
+    padding: 10px;
+    margin: auto;
+    width: auto;
+    border: black;
+    border-width: 10px;
+    border-style:ridge;
+    box-sizing: border-box;
+    float:right;
+}
+.acqua{
+    float:none;
+}
+
+
+/*blocchi*/
+.primo{
+    height: 250px;
+    width: 275px;
+    border:solid;
+    background-color:#d3f7ad;
+}
+
+.quinto{
+    width: 550px;
+    height: 100px;
+    margin: 50px;
+    border-style: inset;
+    border-color:black;
+    background-image:url(white.jpg) ;
+    background-size: 100%;
+}
